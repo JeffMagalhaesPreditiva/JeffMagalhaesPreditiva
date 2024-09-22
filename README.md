@@ -1,4 +1,4 @@
-## Hi there 👋
+## Oi! Eu sou o Jefferson, professor da Preditiva! 👋
 
 <!--
 **JeffMagalhaesPreditiva/JeffMagalhaesPreditiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
